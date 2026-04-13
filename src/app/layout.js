@@ -33,8 +33,8 @@ export default function RootLayout({ children }) {
         
       <div>
         <ul className="flex justify-center gap-4 p-4 bg-gray-200">
-          <Link className="bg-amber-100 p-3 rounded-lg" href="/">Home</Link>
-          <Link className="bg-amber-100 p-3 rounded-lg" href="/users">Users</Link>  
+          <Link className="bg-amber-500 p-3 rounded-lg" href="/">Home</Link>
+          <Link className="bg-amber-500 p-3 rounded-lg" href="/users">Users</Link>
         </ul>
       </div>
         
